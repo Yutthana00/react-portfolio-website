@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-website/static/css/main.3ffc7aad.css",
+    "main.js": "/react-portfolio-website/static/js/main.3e6db857.js",
+    "static/media/yutthana-cv.jpg": "/react-portfolio-website/static/media/yutthana-cv.c7498d8a56be10d05411.jpg",
+    "static/media/alt-f4.png": "/react-portfolio-website/static/media/alt-f4.0ee9524739cb34069933.png",
+    "static/media/BookSearch.jpg": "/react-portfolio-website/static/media/BookSearch.ae390a8cb47d127b3324.jpg",
+    "static/media/MarketWatch.jpg": "/react-portfolio-website/static/media/MarketWatch.ec02265cf41f495f8a8e.jpg",
+    "static/media/yutthana_image1.jpg": "/react-portfolio-website/static/media/yutthana_image1.69c5c2b6b9dc2902e573.jpg",
+    "static/media/Regex-research.png": "/react-portfolio-website/static/media/Regex-research.2ff01910236dcb7e0879.png",
+    "static/media/WalkThisWay.jpg": "/react-portfolio-website/static/media/WalkThisWay.c4a21b459b623edc48a4.jpg",
+    "static/media/e-commerce.png": "/react-portfolio-website/static/media/e-commerce.98c22463561cbd8d3f75.png",
+    "static/media/github link.png": "/react-portfolio-website/static/media/github link.390e05ebbe5f40543121.png",
+    "static/media/linkdin.png": "/react-portfolio-website/static/media/linkdin.c0543f8a1f1f86ab63ac.png",
+    "static/media/mail.png": "/react-portfolio-website/static/media/mail.5a96b03b3d24da24b48b.png",
+    "static/media/cv-screenshot.pdf": "/react-portfolio-website/static/media/cv-screenshot.7fb43f8ca3fea68ec65a.pdf",
+    "static/media/eye.png": "/react-portfolio-website/static/media/eye.fecaa5968a5ea0627176.png",
+    "index.html": "/react-portfolio-website/index.html",
+    "main.3ffc7aad.css.map": "/react-portfolio-website/static/css/main.3ffc7aad.css.map",
+    "main.3e6db857.js.map": "/react-portfolio-website/static/js/main.3e6db857.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ffc7aad.css",
+    "static/js/main.3e6db857.js"
+  ]
+}
