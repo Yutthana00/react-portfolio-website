@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:wght@300&display=swap');
+
+* {
+    background-color: #3f3f3f;
+    color: #e975dc;
+    font-family: 'Monaco', cursive;
+}
+
+#githubicon {
+  height: 10%;
+  width: 10%;
+}
+
+#githubicon:hover {
+  opacity: 0.3;
+}
+
+#linkicon {
+  height: 5%;
+  width: 5%;
+  margin-left: 5%;
+}
+
+#linkicon:hover {
+  opacity: 0.3;
+}
+
+#mailicon {
+  height: 10%;
+  width: 10%;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+
+#mailicon:hover {
+  opacity: 0.3;
+}
+
+#about-me{
+  font-size: 500%;
+}
+
+#centered {
+    margin-top: 5%;
+    background-color: transparent;
+    font-size: 100px;
+    text-align: center;
+    font-variant-caps: small-caps;
+    font-weight: bolder;
+    width: 100%;
+  }
+
+  img#resumeid {
+    width: 70%;
+    height: 70%;
+}
+
+.contactLinks {
+  font-size: x-large;
+
+}
+.card-title {
+  justify-content: center;
+}
+
+.card {
+  margin: 2%;
+  padding: 5px;
+
+}
+
+#resumeText {
+    font-size: 30px;
+    font-variant-caps: all-petite-caps;
+}
+
+  nav li a {
+      font-size: 30%;
+      color: #e975dc;
+  }
+
+  nav li a:link {
+    color: #e975dc;
+}
+
+  nav {
+    width: 100%;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 2rem;
+  margin-bottom: 5%;
+  }
+
+  nav li {
+    padding-left: 1%;
+    padding-right: 1%;
+  }
+
+  #homeTab {
+    justify-content: center;
+  }
+
+  nav.nav.nav-tabs.navbar-black.bg-370617 {
+    border: none;
+}
+
+a.nav-link.active {
+  background-color: #e975dc;
+  border: #e975dc;
+}
+
+  .nav-item {
+    margin-bottom: 5%;
+    border: none;
+  }
+  /*  */
+
+  #profileimg {
+    width: 30%;
+    height: 30%;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    float: center;
+    margin-bottom: 90px;
+  }
+
+  #profileText {
+    margin: 3%;
+    padding: 3%;
+    display: flex;
+    flex-direction: column;
+    float: center;
+    font-size: x-large;
+  }
+
+  .react-icons {
+   font-size: 550%;
+   margin: 3%;
+  }
+
+  Form {
+    border-radius: 10px;
+    padding: 10px;
+  }
+
+  footer {
+    float: right;
+    display: block;
+  }
+
+@media (max-width: 575.98px) { 
+  .card-title {
+    font-size: 110%;
+    display: flex;
+  flex-direction: column;
+  }
+
+  #profileimg {
+    width: 65%;
+    height: 65%;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    justify-content: center;
+    float: left;
+  }
+}
+/* 
+// Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) { 
+  .card-title {
+    font-size: 80%;
+    display: flex;
+  flex-direction: column;
+  }
+
+  #profileimg {
+    width: 85%;
+    height: 85%;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    display: block;
+    justify-content: center;
+    float: left;
+  }
+
+  .react-icons {
+    font-size: 950%;
+    margin: 5%;
+   }
+ }
+
+/* // Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) { 
+  .card-title {
+    font-size: 70%;
+    display: flex;
+  flex-direction: column;
+  }
+
+  #profileimg {
+    width: 75%;
+    height: 75%;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    display: block;
+    justify-content: center;
+    float: left;
+  }
+
+  .react-icons {
+    font-size: 750%;
+    margin: 4%;
+   }
+}
+
+/* // Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) { 
+  .card-title {
+    font-size: 100%;
+    display: flex;
+  flex-direction: column;
+  }
+
+  #profileimg {
+    width: 75%;
+    height: 75%;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-bottom: 4%;
+    display: block;
+    justify-content: center;
+    float: left;
+  }
+
+  .react-icons {
+    font-size: 650%;
+    margin: 13%;
+   }
+ }
